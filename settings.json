@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Ii_bag_petarde_in-cu.aternos.me",
+    "port": 20435,
     "version": "",
     "try-creative": false
   },
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1482394670171688994/mfeY-fctzxTl9fkpzmQKxrsTRxsjGeOuccV2jpsObSuNrE_b-TRobJdwHr3wDuPhvfJE",
     "events": {
       "connect": true,
       "disconnect": true,
