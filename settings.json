@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Savu123",
+    "username": "Echo",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "SigmasBoys.aternos.me:43408",
-    "port": 20435,
+    "ip": "EchoSMPOk.aternos.me",
+    "port": 62914,
     "version": "",
     "try-creative": false
   },
@@ -58,16 +58,16 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
-    "chat": true,
-    "console-commands": true
+    "chat": false,
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1484234416971845715/OX1MhBD47EEouDderld6WMJ5vsh1ShnyQJac-JX1R42EOGjZ3EFrKREd5q2iSf1gwh7n",
+    "webhookUrl": "https://discord.com/api/webhooks/1484241656508190852/dOMRP_CzSRu6EmrQuvQM9UH0h_eJhrUgzs0AoyTXdVzDla-7jynRyae-tpy__Ovzhwr3",
     "events": {
       "connect": true,
       "disconnect": true,
